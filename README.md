@@ -1,5 +1,5 @@
 # Телеграм-бот "SheAround"
-![IMG-20231116-232347-309.jpg](https://postimg.cc/0br0ym5F)
+[![IMG-20231116-232347-309.jpg](https://i.postimg.cc/fTf25jGz/IMG-20231116-232347-309.jpg)](https://postimg.cc/0br0ym5F)
 ## Введение
 
 SheAround - это умный Телеграм-бот, предназначенный для игроков SAMP проектов.
